@@ -1,0 +1,23 @@
+header {
+    margin-bottom: 1rem;
+    padding: 5rem 0;
+    color: hsl(0, 0%, 0%);
+    text-align: center;
+}
+
+h1 {
+    font-family: "Open Sans";
+    font-weight: 50;
+    font-size: 6rem;
+    font-stretch: semi-condensed;
+}
+
+entrance img {
+    display:block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 4rem;
+    padding: 2rem 0;
+    width: calc(100% - 10rem);
+}
+
